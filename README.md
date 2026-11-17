@@ -2,6 +2,8 @@
 
 **WordPress Developer | WooCommerce | Elementor | MySQL | SEO | AI Solutions**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitverma27/)
+
 I build fast, secure and scalable WordPress websites. I currently work remotely as a **WordPress Developer & IT Administrator**, and I also take on freelance WordPress and AI-assisted projects.
 
 ## What I Do
@@ -38,8 +40,7 @@ Delivering websites, performance fixes and migrations for small businesses. 10+ 
 
 ## Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/sumitverma27/]
-
+🔗 [Connect with me on LinkedIn]()
 
 ---
 *Open to WordPress development opportunities and freelance projects.*
